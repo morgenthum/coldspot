@@ -1,0 +1,15 @@
+.idea/**
+CMakeFiles/**
+CMakeScripts/**
+Debug/**
+Release/**
+
+coldspot.build/**
+coldspot.xcodeproj/**
+
+*.cmake
+CMakeCache.txt
+install_manifest.txt
+Makefile
+.project
+.modifydates
